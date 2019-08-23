@@ -1,0 +1,17 @@
+{
+  "name": "leetcode-solutions",
+  "repository": "https://github.com/EinsteinCarrey/Leetcode-solutions",
+  "author": "Einstein Njoroge",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^6.2.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.11.0"
+  }
+}
